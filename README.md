@@ -14,3 +14,8 @@ Learn to Code HTML & CSS http://learn.shayhowe.com/
 CodeSchool https://www.codeschool.com/
  * User: cursos@k.......l...com
  * Pass: KAMLAB
+
+Lynda
+
+ * User: cursos@kamikazelab.com
+ * Pass: K4mL4b40
