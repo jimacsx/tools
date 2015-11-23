@@ -24,3 +24,12 @@ envatoMarker - HtmlEditor online:http://codecanyon.net/item/drag-drop-web-page-h
 
 Face Your Manga
  http://www.faceyourmanga.com/
+
+Gulp
+ http://gulpjs.com/
+ https://github.com/gulpjs/gulp/
+ http://frontendlabs.io/1669--gulp-js-en-espanol-tutorial-basico-primeros-pasos-y-ejemplos
+ 
+Mojs (sticks)
+ http://mojs.io/
+ https://github.com/legomushroom/mojs
