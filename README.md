@@ -33,3 +33,7 @@ Gulp
 Mojs (sticks)
  http://mojs.io/
  https://github.com/legomushroom/mojs
+
+plugins
+ dataTable - http://www.datatables.net/ 
+  - Plugin utilizado para realizar filtros en una tabla. Basado en jQuery
