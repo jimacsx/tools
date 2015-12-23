@@ -46,3 +46,6 @@ Para poder descargar páginas con tutoriales (http://librosweb.es/libros/), mús
 los siguientes comandos en Linux:
  - wget -r --no-parent http://site.com/songs/
  - wget --mirror -p --html-extension --convert-links www.example.com
+
+Manual PHP
+ - https://secure.php.net/manual/es/index.php
