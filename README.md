@@ -40,3 +40,7 @@ plugins
 
 Libros Programación Web
  - http://librosweb.es/libros/
+
+Para poder descargar páginas con tutoriales (http://librosweb.es/libros/) podemos utilizar
+el siguiente comando en Linux:
+ - wget -r --no-parent http://site.com/songs/
