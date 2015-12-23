@@ -35,9 +35,23 @@ Mojs (sticks)
  https://github.com/legomushroom/mojs
 
 plugins
- dataTable - http://www.datatables.net/ 
-  - Plugin utilizado para realizar filtros en una tabla. Basado en jQuery
-  - Paginación (filtros): https://www.packtpub.com/books/content/data-tables-and-datatables-plugin-jquery-13-php
+ dataTable - Plugin utilizado para realizar filtros en una tabla. Basado en jQuery
+  - Web site: 
+     http://www.datatables.net/ 
+  - Paginación (filtros): 
+     https://www.packtpub.com/books/content/data-tables-and-datatables-plugin-jquery-13-php
+  - Server Side: 
+     https://datatables.net/manual/server-side
+  - Examples Server Side: 
+     https://datatables.net/examples/server_side/
+  - Forums Server side: 
+     https://datatables.net/forums/discussion/8166/pagination-and-server-side-processing
+  - Server Side Processing: 
+     http://legacy.datatables.net/usage/server-side
+     http://datatables.net/release-datatables/examples/data_sources/server_side.html
+  - Ejemplos con DataTables Plugin:
+     http://coderexample.com/datatable-demo-server-side-in-phpmysql-and-ajax/
+     http://coderexample.com/demo/datatable-page-resize/
 
 Libros Programación Web
  - http://librosweb.es/libros/
@@ -52,3 +66,6 @@ Manual PHP
 
 Beanstalkapp (Repositories Git)
  - http://beanstalkapp.com/
+
+coderexample (algunos ejemplos con javascript plugins y php)
+ - http://coderexample.com/
