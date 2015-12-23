@@ -37,6 +37,7 @@ Mojs (sticks)
 plugins
  dataTable - http://www.datatables.net/ 
   - Plugin utilizado para realizar filtros en una tabla. Basado en jQuery
+  - Paginación (filtros): https://www.packtpub.com/books/content/data-tables-and-datatables-plugin-jquery-13-php
 
 Libros Programación Web
  - http://librosweb.es/libros/
