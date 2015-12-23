@@ -49,3 +49,6 @@ los siguientes comandos en Linux:
 
 Manual PHP
  - https://secure.php.net/manual/es/index.php
+
+Beanstalkapp (Repositories Git)
+ - http://beanstalkapp.com/
