@@ -69,3 +69,13 @@ Beanstalkapp (Repositories Git)
 
 coderexample (algunos ejemplos con javascript plugins y php)
  - http://coderexample.com/
+
+#Plugins
+ 
+ * Autocomplete
+   - http://af-design.com/blog/2010/05/12/using-jquery-uis-autocomplete-to-populate-a-form/
+   - http://jay-chandran.blogspot.mx/2011/09/using-grails-with-jquery-autocomplete.html
+   - http://www.icodeya.com/2013/03/grails-autocomplete-via-jquery-ui-and.html
+   - http://grails.github.io/grails-doc/2.4.x/guide/single.html
+   - http://api.jqueryui.com/autocomplete/#options
+   - http://jqueryui.com/autocomplete/
