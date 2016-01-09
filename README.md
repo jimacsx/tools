@@ -79,3 +79,7 @@ coderexample (algunos ejemplos con javascript plugins y php)
    - http://grails.github.io/grails-doc/2.4.x/guide/single.html
    - http://api.jqueryui.com/autocomplete/#options
    - http://jqueryui.com/autocomplete/
+ 
+ * dataTable 
+   - Plugin utilizado para realizar filtros en una tabla. Basado en jQuery
+      + Web site: http://www.datatables.net/
