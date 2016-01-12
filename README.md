@@ -104,5 +104,5 @@ coderexample (algunos ejemplos con javascript plugins y php)
 
 # Adobe Illustrator
 
- * link de desarcar: 
+ * link de descarga: 
     https://mega.nz/#!zYVz3TDL!DElq8N8EFgtoCxirrSkkOHBXGm-NjSw_-kYN1hxoXMk
