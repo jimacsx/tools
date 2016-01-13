@@ -85,6 +85,9 @@ coderexample (algunos ejemplos con javascript plugins y php)
  * dataTable 
    - Plugin utilizado para realizar filtros en una tabla. Basado en jQuery
       + Web site: http://www.datatables.net/
+ 
+ * AJAX
+   - https://www.imaginanet.com/blog/usando-ajax-un-simple-ejemplo-con-php-y-jquery.html
 
 # Configuración para utilizar gulp, gulp-sass, susy-framework instalado con bower
    http://www.zell-weekeat.com/gulp-libsass-with-susy/
