@@ -109,3 +109,14 @@ coderexample (algunos ejemplos con javascript plugins y php)
 
  * link de descarga: 
     https://mega.nz/#!zYVz3TDL!DElq8N8EFgtoCxirrSkkOHBXGm-NjSw_-kYN1hxoXMk
+
+# Python
+
+ * https://www.python.org/
+ * http://www.pythonlearn.com/software-win.php
+ * https://docs.python.org/3/tutorial/datastructures.html
+ * https://docs.python.org/3/library/
+ 
+ * https://docs.python.org/3/library/sqlite3.html
+ 
+
