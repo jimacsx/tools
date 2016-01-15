@@ -24,6 +24,10 @@ envatoMarker - HtmlEditor online:http://codecanyon.net/item/drag-drop-web-page-h
 
 Face Your Manga
  http://www.faceyourmanga.com/
+ 
+#LAP
+ http://shop.lenovo.com/mx/es/laptops/lenovo/serie-y/
+ http://shop.lenovo.com/mx/es/laptops/lenovo/serie-y/y50/?sb=:00000037:00002195:
 
 Gulp
  http://gulpjs.com/
