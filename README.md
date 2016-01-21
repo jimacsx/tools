@@ -29,12 +29,13 @@ Face Your Manga
  http://shop.lenovo.com/mx/es/laptops/lenovo/serie-y/
  http://shop.lenovo.com/mx/es/laptops/lenovo/serie-y/y50/?sb=:00000037:00002195:
 
-Gulp
+#Gulp
  http://gulpjs.com/
  https://github.com/gulpjs/gulp/
  http://frontendlabs.io/1669--gulp-js-en-espanol-tutorial-basico-primeros-pasos-y-ejemplos
  http://ryanchristiani.com/getting-started-with-gulp-and-sass/
  http://gulpjs.com/plugins/
+ http://bitsofco.de/a-simple-gulp-workflow/
  
 Mojs (sticks)
  http://mojs.io/
