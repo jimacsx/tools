@@ -130,3 +130,9 @@ coderexample (algunos ejemplos con javascript plugins y php)
 
 #Icons to Tipografía
  http://fontcustom.github.io/fontcustom/
+
+
+# Root Moto E
+ https://www.youtube.com/watch?v=4FOc5kxJnKA
+ * instalar Recovery TWRP
+  https://www.youtube.com/watch?v=35bWTWxysbM
