@@ -121,6 +121,7 @@ coderexample (algunos ejemplos con javascript plugins y php)
  * http://www.pythonlearn.com/software-win.php
  * https://docs.python.org/3/tutorial/datastructures.html
  * https://docs.python.org/3/library/
+ * http://www.pythonlearn.com/
  
  * https://docs.python.org/3/library/sqlite3.html
  
