@@ -134,5 +134,16 @@ coderexample (algunos ejemplos con javascript plugins y php)
 
 # Root Moto E
  https://www.youtube.com/watch?v=4FOc5kxJnKA
+ Descargas
+   FlashFirmware.rar
+     http://sh.st/cZR0d
+   Recovery 3G
+     http://sh.st/cBmkA
+   Recovery 4G
+     http://sh.st/cBmzj
+   Comandos
+     http://sh.st/cBmce
+     
  * instalar Recovery TWRP
   https://www.youtube.com/watch?v=35bWTWxysbM
+
