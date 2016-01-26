@@ -147,3 +147,8 @@ coderexample (algunos ejemplos con javascript plugins y php)
  * instalar Recovery TWRP
   https://www.youtube.com/watch?v=35bWTWxysbM
 
+#JSON Parser Online
+ http://json.parser.online.fr/
+ 
+ example: http://json.parser.online.fr/beta/
+
