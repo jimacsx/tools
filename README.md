@@ -160,4 +160,5 @@ coderexample (algunos ejemplos con javascript plugins y php)
   https://styde.net/laravel-5/
   * Composer - Manejador de dependencias de PHP
     - https://getcomposer.org/
+      - Las librerias se instalan en un directorio por defecto (normalmente /Vendor)
     - Paquetes en  Packagist: https://packagist.org/
