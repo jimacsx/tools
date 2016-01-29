@@ -155,3 +155,5 @@ coderexample (algunos ejemplos con javascript plugins y php)
  
  example: http://json.parser.online.fr/beta/
 
+#Laravel 5 Framework PHP
+  https://styde.net/laravel-5/
