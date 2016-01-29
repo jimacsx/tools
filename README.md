@@ -156,4 +156,8 @@ coderexample (algunos ejemplos con javascript plugins y php)
  example: http://json.parser.online.fr/beta/
 
 #Laravel 5 Framework PHP
+
   https://styde.net/laravel-5/
+  * Composer - Manejador de dependencias de PHP
+    - https://getcomposer.org/
+    - Paquetes en  Packagist: https://packagist.org/
