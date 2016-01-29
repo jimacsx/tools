@@ -125,6 +125,8 @@ coderexample (algunos ejemplos con javascript plugins y php)
  
  * https://docs.python.org/3/library/sqlite3.html
  
+ --- https://pr4e.dr-chuck.com/tsugi/mod/pythonauto/index.php?PHPSESSID=41643d52473abcd52be630aa5424ed97
+
 #SQLite
  http://sqlitebrowser.org/
 
