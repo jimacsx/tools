@@ -162,3 +162,18 @@ coderexample (algunos ejemplos con javascript plugins y php)
     - https://getcomposer.org/
       - Las librerias se instalan en un directorio por defecto (normalmente /Vendor)
     - Paquetes en  Packagist: https://packagist.org/
+    - 
+  
+  * Comandos
+   - composer init  - crea el archivo composer.json
+   - composer install - procesa el archivo composer.json si este ya tiene librerias o dependencias incluidas
+   - php composer validate - checa si el archivo composer.json esta escrito correctamente
+   - php composer status -v - comprueba si hemos hecho algún cambio en las dependencias (similar al git status)
+   - php composer self-update - actualiza el composer a la versión más reciente
+   - php composer config --list - permite editar opciones de composer
+   
+   - php composer create-project laravel/laravel mi-proyecto - crea un poryecto de laravel
+   - php composer dump-autoload --optimize -actualiza el archivo autoloader por si tenemos nuevas clases creadas
+   - php composer help install - help para ver información del comando solicitado (install)
+   - php composer remove vendor/package - sirve para eliminar alguna dependencia que no estemos utilizando
+   - composer require dependencia - instala dependencia especificada
