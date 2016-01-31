@@ -177,3 +177,9 @@ coderexample (algunos ejemplos con javascript plugins y php)
    - php composer help install - help para ver información del comando solicitado (install)
    - php composer remove vendor/package - sirve para eliminar alguna dependencia que no estemos utilizando
    - composer require dependencia - instala dependencia especificada
+
+#Sublime Text
+
+* Instalación: http://www.tecmint.com/install-sublime-text-editor-in-linux/
+* Link Desktop: http://unix.stackexchange.com/questions/156126/how-do-i-add-a-launcher-in-gnome-on-fedora-20
+* Licence: https://drive.google.com/a/kamikazelab.com/file/d/0B3H4PlBeDTERdm5TNnBYXy01MnM/view
