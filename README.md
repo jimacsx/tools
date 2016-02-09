@@ -197,3 +197,4 @@ coderexample (algunos ejemplos con javascript plugins y php)
 
 #Botones
  http://librosweb.es/libro/bootstrap_3/capitulo_5/botones.html
+ http://jsfiddle.net/czL54/13/
