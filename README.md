@@ -193,3 +193,7 @@ coderexample (algunos ejemplos con javascript plugins y php)
 
 # Case Sensitive PHP
  http://php.net/manual/es/function.strtolower.php
+
+
+#Botones
+ http://librosweb.es/libro/bootstrap_3/capitulo_5/botones.html
