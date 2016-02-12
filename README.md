@@ -127,7 +127,9 @@ coderexample (algunos ejemplos con javascript plugins y php)
  --- https://pr4e.dr-chuck.com/tsugi/mod/pythonauto/index.php?PHPSESSID=41643d52473abcd52be630aa5424ed97
 
  * library functions : https://docs.python.org/2.7/library/functions.html
-
+ * - CODES
+   + http://www.py4inf.com/code/
+   
 #snipping tool
 
 #SQLite
