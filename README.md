@@ -130,6 +130,9 @@ coderexample (algunos ejemplos con javascript plugins y php)
  * - CODES
    + http://www.py4inf.com/code/
    
+ * - Python For Informatics -Slides
+ *   + http://www.pythonlearn.com/slides/
+   
 #snipping tool
 
 #SQLite
