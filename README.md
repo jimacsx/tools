@@ -135,6 +135,7 @@ coderexample (algunos ejemplos con javascript plugins y php)
 
 # Atom Editor
  - https://atom.io/
+ - https://github.com/atom/atom/releases/tag/v1.5.3
  
 #snipping tool
 
