@@ -205,7 +205,10 @@ coderexample (algunos ejemplos con javascript plugins y php)
 # Case Sensitive PHP
  http://php.net/manual/es/function.strtolower.php
 
-
 #Botones
  http://librosweb.es/libro/bootstrap_3/capitulo_5/botones.html
  http://jsfiddle.net/czL54/13/
+
+# Gráficas - HighCharts API
+ - http://www.highcharts.com/
+ - http://api.highcharts.com/highcharts#chart
