@@ -132,7 +132,10 @@ coderexample (algunos ejemplos con javascript plugins y php)
    
  * - Python For Informatics -Slides
  *   + http://www.pythonlearn.com/slides/
-   
+
+# Atom Editor
+ - https://atom.io/
+ 
 #snipping tool
 
 #SQLite
