@@ -212,6 +212,10 @@ coderexample (algunos ejemplos con javascript plugins y php)
 # Gráficas - HighCharts API
  - http://www.highcharts.com/
  - http://api.highcharts.com/highcharts#chart
+ - 
+
+#JavaScripting
+ - https://www.javascripting.com/
 ------------------------------------------------------------------------------------------------------------------
 #HTML5
  - https://www.w3.org/TR/html5/
