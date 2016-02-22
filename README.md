@@ -212,7 +212,9 @@ coderexample (algunos ejemplos con javascript plugins y php)
 # Gráficas - HighCharts API
  - http://www.highcharts.com/
  - http://api.highcharts.com/highcharts#chart
-
+------------------------------------------------------------------------------------------------------------------
 #HTML5
-
  - https://www.w3.org/TR/html5/
+ 
+ * Editor HTML TinyMCE
+   - https://www.tinymce.com/download/
