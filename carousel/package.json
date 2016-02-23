@@ -1,0 +1,28 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "* $ npm init\r * $ npm install --save-dev plugin-name-here",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimacsx/tools.git"
+  },
+  "author": "jimacsx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimacsx/tools/issues"
+  },
+  "homepage": "https://github.com/jimacsx/tools#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify-css": "^1.2.3",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.2.0",
+    "sass-ems": "^1.0.3"
+  }
+}

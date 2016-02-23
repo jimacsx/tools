@@ -1,0 +1,49 @@
+//_variables.sass
+$small          : 0px
+$mobile        : 320px
+$tablet        : 768px
+$desktop-960   : 960px
+$desktop_1200  : 1200px
+
+/* Fonts */
+$font-roboto:     Roboto, Helvetica, sans-serif
+$font-hand:       'Just Another Hand', Helvetica, sans-serif
+
+/* Colors */
+$green: 	  	      #006935
+$green_lemon: 	   #B4DA2A
+$yellow: 	  	   #F9D423
+$pink: 		  	   #FF566F
+$black: 	  	      #000000
+$gray:   	  	   #393939
+$gray-opac: 	   rgba(125,125,123,0.40)
+$white: 	  	      #F5F5F5
+
+//_susy.sass
+@import "./bower_components/susy/sass/susy"
+
+//_base.sass
+body
+   width: 100%
+   margin: 0
+
+@include susy-breakpoint($small, 12)
+   .header
+      @include span(12)
+      background-color: $green
+@include susy-breakpoint($mobile, 12)
+   .header
+      @include span(12)
+      background-color: $yellow
+@include susy-breakpoint($tablet, 12)
+   .header
+      @include span(12)
+      background-color: $black
+@include susy-breakpoint($desktop-960, 12)
+   .header
+      @include span(12)
+      background-color: $pink
+@include susy-breakpoint($desktop_1200, 12)
+   .header
+      img
+         @include span(12)

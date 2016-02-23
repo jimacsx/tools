@@ -1,0 +1,44 @@
+/* Fonts */
+/* Colors */
+body {
+  width: 100%;
+  margin: 0; }
+
+@media (min-width: 0px) {
+  .header {
+    width: 100%;
+    float: left;
+    margin-left: 0;
+    margin-right: 0;
+    background-color: #006935; } }
+
+@media (min-width: 320px) {
+  .header {
+    width: 100%;
+    float: left;
+    margin-left: 0;
+    margin-right: 0;
+    background-color: #F9D423; } }
+
+@media (min-width: 768px) {
+  .header {
+    width: 100%;
+    float: left;
+    margin-left: 0;
+    margin-right: 0;
+    background-color: #000000; } }
+
+@media (min-width: 960px) {
+  .header {
+    width: 100%;
+    float: left;
+    margin-left: 0;
+    margin-right: 0;
+    background-color: #FF566F; } }
+
+@media (min-width: 1200px) {
+  .header img {
+    width: 100%;
+    float: left;
+    margin-left: 0;
+    margin-right: 0; } }

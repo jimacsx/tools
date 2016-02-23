@@ -1,7 +1,19 @@
 # tools
 
- Important links
- 
+* $ npm init
+* $ npm install --save-dev plugin-name-here
+* $ npm install //para instalar dependencias que contiene nuestro package.json
+
+* $ bower init
+* $ bower install --save-dev plugin-name-here
+* $ bower install //para instalar dependencias que contiene nuestro bower.json
+
+# owlcarousel
+   * http://owlgraphic.com/owlcarousel/
+
+-----------------------------------------------------------------------------------------
+# Important links
+
 
 Git Book(español) https://git-scm.com/book/es/v1
 
@@ -24,7 +36,7 @@ envatoMarker - HtmlEditor online:http://codecanyon.net/item/drag-drop-web-page-h
 
 Face Your Manga
  http://www.faceyourmanga.com/
- 
+
 #LAP
  http://shop.lenovo.com/mx/es/laptops/lenovo/serie-y/
  http://shop.lenovo.com/mx/es/laptops/lenovo/serie-y/y50/?sb=:00000037:00002195:
@@ -36,24 +48,24 @@ Face Your Manga
  http://ryanchristiani.com/getting-started-with-gulp-and-sass/
  http://gulpjs.com/plugins/
  http://bitsofco.de/a-simple-gulp-workflow/
- 
+
 Mojs (sticks)
  http://mojs.io/
  https://github.com/legomushroom/mojs
 
 plugins
  dataTable - Plugin utilizado para realizar filtros en una tabla. Basado en jQuery
-  - Web site: 
-     http://www.datatables.net/ 
-  - Paginación (filtros): 
+  - Web site:
+     http://www.datatables.net/
+  - Paginación (filtros):
      https://www.packtpub.com/books/content/data-tables-and-datatables-plugin-jquery-13-php
-  - Server Side: 
+  - Server Side:
      https://datatables.net/manual/server-side
-  - Examples Server Side: 
+  - Examples Server Side:
      https://datatables.net/examples/server_side/
-  - Forums Server side: 
+  - Forums Server side:
      https://datatables.net/forums/discussion/8166/pagination-and-server-side-processing
-  - Server Side Processing: 
+  - Server Side Processing:
      http://legacy.datatables.net/usage/server-side
      http://datatables.net/release-datatables/examples/data_sources/server_side.html
   - Ejemplos con DataTables Plugin:
@@ -78,7 +90,7 @@ coderexample (algunos ejemplos con javascript plugins y php)
  - http://coderexample.com/
 
 #Plugins
- 
+
  * Autocomplete
    - http://af-design.com/blog/2010/05/12/using-jquery-uis-autocomplete-to-populate-a-form/
    - http://jay-chandran.blogspot.mx/2011/09/using-grails-with-jquery-autocomplete.html
@@ -86,33 +98,33 @@ coderexample (algunos ejemplos con javascript plugins y php)
    - http://grails.github.io/grails-doc/2.4.x/guide/single.html
    - http://api.jqueryui.com/autocomplete/#options
    - http://jqueryui.com/autocomplete/
- 
- * dataTable 
+
+ * dataTable
    - Plugin utilizado para realizar filtros en una tabla. Basado en jQuery
       + Web site: http://www.datatables.net/
- 
+
  * AJAX
    - https://www.imaginanet.com/blog/usando-ajax-un-simple-ejemplo-con-php-y-jquery.html
 
 # Configuración para utilizar gulp, gulp-sass, susy-framework instalado con bower
    http://www.zell-weekeat.com/gulp-libsass-with-susy/
-  
-  * Susy 
+
+  * Susy
    web site
     http://susydocs.oddbird.net/en/latest/
-    
+
   * Examples
     http://susy.oddbird.net/
-  
+
   *Ejemplo utilizando susy
     http://blog.codepen.io/2014/08/21/susy-sass-now-supported/
-  
+
   * sass to css
     http://www.sasstoscss.com/
 
 # Adobe Illustrator
 
- * link de descarga: 
+ * link de descarga:
     https://mega.nz/#!zYVz3TDL!DElq8N8EFgtoCxirrSkkOHBXGm-NjSw_-kYN1hxoXMk
 
 # Python
@@ -122,21 +134,21 @@ coderexample (algunos ejemplos con javascript plugins y php)
  * https://docs.python.org/3/tutorial/datastructures.html
  * https://docs.python.org/3/library/
  * http://www.pythonlearn.com/
- 
+
  * https://docs.python.org/3/library/sqlite3.html
  --- https://pr4e.dr-chuck.com/tsugi/mod/pythonauto/index.php?PHPSESSID=41643d52473abcd52be630aa5424ed97
 
  * library functions : https://docs.python.org/2.7/library/functions.html
  * - CODES
    + http://www.py4inf.com/code/
-   
+
  * - Python For Informatics -Slides
  *   + http://www.pythonlearn.com/slides/
 
 # Atom Editor
  - https://atom.io/
  - https://github.com/atom/atom/releases/tag/v1.5.3
- 
+
 #snipping tool
 
 #SQLite
@@ -157,13 +169,13 @@ coderexample (algunos ejemplos con javascript plugins y php)
      http://sh.st/cBmzj
    Comandos
      http://sh.st/cBmce
-     
+
  * instalar Recovery TWRP
   https://www.youtube.com/watch?v=35bWTWxysbM
 
 #JSON Parser Online
  http://json.parser.online.fr/
- 
+
  example: http://json.parser.online.fr/beta/
 
 #Laravel 5 Framework PHP
@@ -173,8 +185,8 @@ coderexample (algunos ejemplos con javascript plugins y php)
     - https://getcomposer.org/
       - Las librerias se instalan en un directorio por defecto (normalmente /Vendor)
     - Paquetes en  Packagist: https://packagist.org/
-    - 
-  
+    -
+
   * Comandos
    - composer init  - crea el archivo composer.json
    - composer install - procesa el archivo composer.json si este ya tiene librerias o dependencias incluidas
@@ -182,7 +194,7 @@ coderexample (algunos ejemplos con javascript plugins y php)
    - php composer status -v - comprueba si hemos hecho algún cambio en las dependencias (similar al git status)
    - php composer self-update - actualiza el composer a la versión más reciente
    - php composer config --list - permite editar opciones de composer
-   
+
    - php composer create-project laravel/laravel mi-proyecto - crea un poryecto de laravel
    - php composer dump-autoload --optimize -actualiza el archivo autoloader por si tenemos nuevas clases creadas
    - php composer help install - help para ver información del comando solicitado (install)
@@ -212,13 +224,13 @@ coderexample (algunos ejemplos con javascript plugins y php)
 # Gráficas - HighCharts API
  - http://www.highcharts.com/
  - http://api.highcharts.com/highcharts#chart
- - 
+ -
 
 #JavaScripting
  - https://www.javascripting.com/
 ------------------------------------------------------------------------------------------------------------------
 #HTML5
  - https://www.w3.org/TR/html5/
- 
+
  * Editor HTML TinyMCE
    - https://www.tinymce.com/download/

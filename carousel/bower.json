@@ -1,0 +1,22 @@
+{
+  "name": "tools",
+  "description": "N",
+  "main": "bower.json",
+  "authors": [
+    "jimacsx"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jimacsx/tools",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "susy": "^2.2.12",
+    "slick-carousel": "^1.5.9"
+  }
+}
