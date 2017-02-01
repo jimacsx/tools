@@ -200,6 +200,7 @@ coderexample (algunos ejemplos con javascript plugins y php)
    - php composer help install - help para ver información del comando solicitado (install)
    - php composer remove vendor/package - sirve para eliminar alguna dependencia que no estemos utilizando
    - composer require dependencia - instala dependencia especificada
+   - php artisan serve - inicia servidor con localhost:8000/
 
 #Sublime Text
 
