@@ -237,11 +237,11 @@ coderexample (algunos ejemplos con javascript plugins y php)
    
 #Feed Twitter
 * La programación para poder mostrar tweets consiste en:
-  - tener el siguiente archivo declarado dentro del 
-    + <head><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></head>
+  + tener el siguiente archivo declarado dentro del <head><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></head>
     + http://platform.twitter.com/widgets.js
-  - seguir las indicaciones de los siguientes enlaces (para esto debemos tener credenciales de la cuenta de twitter)
+    + o igual el archivo lo encontramos en este repo (js/widgets.js)
+  + seguir las indicaciones de los siguientes enlaces (para esto debemos tener credenciales de la cuenta de twitter)
     + https://support.twitter.com/articles/20171532
     + https://webservicespro.wordpress.com/2016/05/30/como-poner-time-line-twitter-en-sitio-web/
-  - pegar el código generado en twitter en el div donde queramos que aparezca
-  - listo
+  + pegar el código generado en twitter en el div donde queramos que aparezca
+  + listo
