@@ -246,3 +246,17 @@ coderexample (algunos ejemplos con javascript plugins y php)
     + https://webservicespro.wordpress.com/2016/05/30/como-poner-time-line-twitter-en-sitio-web/
   * pegar el código generado en twitter en el div donde queramos que aparezca
   * listo
+
+
+#How Remove .DS_Store File
+
+- Remove existing files from the repository:
+    find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch
+
+- Add the line
+    .DS_Store
+    
+- to the file .gitignore, which can be found at the top level of your repository (or created if it isn't there already). Then
+
+- git add .gitignore
+- git commit -m '.DS_Store banished!'
