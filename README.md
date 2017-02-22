@@ -258,5 +258,5 @@ coderexample (algunos ejemplos con javascript plugins y php)
     
 - to the file .gitignore, which can be found at the top level of your repository (or created if it isn't there already). Then
 
-- git add .gitignore
-- git commit -m '.DS_Store banished!'
+- $ git add .gitignore
+- $ git commit -m '.DS_Store banished!'
