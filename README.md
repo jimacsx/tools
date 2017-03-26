@@ -260,3 +260,6 @@ coderexample (algunos ejemplos con javascript plugins y php)
 
 - $ git add .gitignore
 - $ git commit -m '.DS_Store banished!'
+
+#mongodb mac osx
+- https://jafrancov.com/2013/09/instalar-mongodb-osx/
