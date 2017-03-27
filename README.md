@@ -266,3 +266,4 @@ coderexample (algunos ejemplos con javascript plugins y php)
 
 #Django
 - https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-16-04
+- http://www.slothparadise.com/how-to-install-django-on-mac/
