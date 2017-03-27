@@ -263,3 +263,6 @@ coderexample (algunos ejemplos con javascript plugins y php)
 
 #mongodb mac osx
 - https://jafrancov.com/2013/09/instalar-mongodb-osx/
+
+#Django
+- https://www.digitalocean.com/community/tutorials/how-to-serve-django-applications-with-uwsgi-and-nginx-on-ubuntu-16-04
