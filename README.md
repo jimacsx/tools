@@ -272,3 +272,6 @@ coderexample (algunos ejemplos con javascript plugins y php)
 - https://github.com/sarahquigley/crawl
 - http://sarahquigley.net/crawl/
 - http://phaser.io/
+
+# Apache Mac Osx Yosemite
+- https://coolestguidesontheplanet.com/get-apache-mysql-php-phpmyadmin-working-osx-10-10-yosemite/
