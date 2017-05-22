@@ -275,3 +275,7 @@ coderexample (algunos ejemplos con javascript plugins y php)
 
 # Apache Mac Osx Yosemite
 - https://coolestguidesontheplanet.com/get-apache-mysql-php-phpmyadmin-working-osx-10-10-yosemite/
+
+# Issues Angular
+- Angularjs synchronous http request inside a foreach
+  + http://howwhywhat.in/angularjs-synchronous-http-request-inside-a-foreach
